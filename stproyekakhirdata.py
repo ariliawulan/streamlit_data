@@ -1,5 +1,3 @@
-pip install git+https://github.com/matplotlib/matplotlib.git
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
